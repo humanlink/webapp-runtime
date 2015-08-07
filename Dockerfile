@@ -8,7 +8,9 @@ RUN apt-get install -y \
       git \
       nginx \
       supervisor \
+      libffi-dev \
       libpq-dev \
+      libssl-dev \
       python \
       python-dev \
       python-setuptools \
